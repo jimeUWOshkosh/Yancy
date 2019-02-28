@@ -7,6 +7,7 @@ Mojolicious Advent(s)
     https://mojolicious.io/page/advent/2017
     Mojolicious Advent Calendar 2017: Day 15: Start a New Yancy App
 
+    mojolicious.io
     Mojolicious Advent Calendar 2018: Day 6: Making A List with Yancy
     Mojolicious Advent Calendar 2018: Day 17: A Website For Yancy
 
